@@ -18,10 +18,10 @@ A kaputelefon kijelzőjét egy mozgásérzékelő hatására megvilágítjuk, il
 A projekthez szükséges alkatrészek:
 - Mozgásérzékelő
 - RFID olvasó
-- Fényérzékelő
 - Szervómotor
 - Kijelző
-- Keypad
+- IR remote
 
-
-
+![Kapcsolási rajz](1.png)
+![Bekötési rajz](2.png)
+![Állapot átmeneti rajz](3.png)
